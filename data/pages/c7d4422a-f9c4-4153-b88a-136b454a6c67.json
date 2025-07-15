@@ -7,12 +7,30 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "image",
+      "url": "https://dl.ndl.go.jp/api/iiif/2558138/manifest.json",
+      "caption": "this is test.",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2025-07-15T14:49:08.674Z",
   "created_by": "yuna-murata",
   "title": "tutorial 2",
-  "updated_at": "2025-07-15T15:23:00.512Z",
+  "updated_at": "2025-07-15T15:26:00.191Z",
   "updated_by": "yuna-murata",
   "autogenerate": {
     "enabled": false,
