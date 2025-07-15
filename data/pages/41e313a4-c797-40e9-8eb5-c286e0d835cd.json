@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-07-15T15:00:38.425Z",
+  "created_by": "yuna-murata",
+  "title": "event2 ",
+  "slug": "event2",
+  "updated_at": "2025-07-15T15:00:38.425Z",
+  "updated_by": "yuna-murata",
+  "parent": "c7d4422a-f9c4-4153-b88a-136b454a6c67",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "5a03116a-a247-44ab-9683-c580f22ceba0"
+  }
+}
