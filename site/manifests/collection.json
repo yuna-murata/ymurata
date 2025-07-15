@@ -1,0 +1,1 @@
+{"@context":"http://iiif.io/api/presentation/3/context.json","id":"https://yuna-murata.github.io/ymurata/manifests/collection.json","type":"Collection","label":{"en":["tutorial 2"]},"items":[{"id":"https://yuna-murata.github.io/ymurata/manifests/event1.json","type":"Manifest","label":{"en":["event1"]}}]}
