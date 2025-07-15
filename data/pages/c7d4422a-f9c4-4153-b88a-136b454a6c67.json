@@ -1,12 +1,21 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2025-07-15T14:49:08.674Z",
   "created_by": "yuna-murata",
   "title": "tutorial 2",
-  "updated_at": "2025-07-15T14:49:08.674Z",
+  "updated_at": "2025-07-15T15:23:00.512Z",
   "updated_by": "yuna-murata",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "home"
   }
 }
