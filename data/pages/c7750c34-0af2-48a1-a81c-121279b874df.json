@@ -1,0 +1,15 @@
+{
+  "content": [],
+  "created_at": "2025-07-15T15:05:41.514Z",
+  "created_by": "yuna-murata",
+  "title": "Suspense Film",
+  "slug": "suspense-film",
+  "updated_at": "2025-07-15T15:05:41.514Z",
+  "updated_by": "yuna-murata",
+  "parent": "c7d4422a-f9c4-4153-b88a-136b454a6c67",
+  "autogenerate": {
+    "enabled": true,
+    "type": "event",
+    "type_id": "7ef5a745-1d41-424a-b06d-40564f691610"
+  }
+}

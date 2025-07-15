@@ -1,0 +1,16 @@
+{
+  "audiovisual_files": {
+    "4e81f2ea-09fb-4555-a1b2-08eb6d5055f5": {
+      "label": "Suspense Film",
+      "is_offline": false,
+      "file_type": "Video",
+      "duration": 20
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Suspense Film",
+  "created_at": "2025-07-15T15:05:40.622Z",
+  "created_by": "yuna-murata",
+  "updated_at": "2025-07-15T15:05:40.622Z",
+  "updated_by": "yuna-murata"
+}

@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "96a1aa6b-bd27-40a5-90c0-3739980f1ef6": {
+      "label": "Event Item Label  (Audio or Video)",
+      "is_offline": false,
+      "file_type": "Event Item Type (Audio or Video)",
+      "file_url": "Event Citation (optional)",
+      "duration": 10
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Event Label",
+  "created_at": "2025-07-15T15:05:40.622Z",
+  "created_by": "yuna-murata",
+  "updated_at": "2025-07-15T15:05:40.622Z",
+  "updated_by": "yuna-murata"
+}

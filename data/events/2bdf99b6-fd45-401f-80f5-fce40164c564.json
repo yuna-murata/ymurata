@@ -1,0 +1,16 @@
+{
+  "audiovisual_files": {
+    "578fb661-8d5b-4f1a-a86c-58d1ed6676b8": {
+      "label": "The Lonely Villa Film",
+      "is_offline": false,
+      "file_type": "Video",
+      "duration": 30
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "The Lonely Villa Film",
+  "created_at": "2025-07-15T15:05:40.622Z",
+  "created_by": "yuna-murata",
+  "updated_at": "2025-07-15T15:05:40.622Z",
+  "updated_by": "yuna-murata"
+}
