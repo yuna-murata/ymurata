@@ -1,0 +1,18 @@
+{
+  "event_id": "95c2bd60-38b5-4cc8-94e0-cea321bf9de6",
+  "source_id": "15f635ce-abe7-46d9-b5ec-612d0f0dcd21",
+  "set": "English [Transcript]",
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 0,
+      "annotation": [
+        {
+          "text": "https://d9jk7wjtjpu5g.cloudfront.net/file_transcripts/associated_files/000/035/913/original/EdmontonPoets-Caption.webvtt?1649967443"
+        }
+      ],
+      "tags": [],
+      "uuid": "5797b001-e384-4f10-a2c5-9aaea029bad1"
+    }
+  ]
+}
